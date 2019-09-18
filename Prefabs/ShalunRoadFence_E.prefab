@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7483172131448669718}
   - component: {fileID: 5104985357718581358}
   m_Layer: 0
-  m_Name: Fence_E
+  m_Name: ShalunRoadFence_E
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
